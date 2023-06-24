@@ -1,0 +1,197 @@
+<!-- HOMEPAGE DESIGN AND CODING BY GOTHLLY (C) 2016 - 2022 ALL RIGHTS RESERVED | OWNED BY ONALIA
+       DON'T: COPY, TRACE, SELL, EDIT, STEAL OR REVAMP MY WORK. YOU'RE WARNED  -->
+
+<!-- FOOTER -->
+<link rel="stylesheet" href="https://HP-001-Onalia.gothlly.art/-G-001-FOOTER.DontEdit.css" target="inlineframe" />
+<a href="https://fr.imvu.com/catalog/web_mypage.php?user=154672905" target="_blank"><div class="Footer">
+Homepage Design and Coding by <t><o>Gothlly</o></t> © 2016 - 2022 All Rights Reserved | owned by <t><o>Onalia</o></t><o><size><br />Gothlly™ - Layouts & Graphics</size></o>
+</div>
+
+<!-- BASE CODE -->
+<style>body{background-color:#000}</style>
+<iframe id="base" scrolling="no" src="https://HP-001-Onalia.gothlly.art/index.html" style="height:2030px;"></iframe>
+<link rel="stylesheet" href="https://codes.gothlly.art/-G-VideosPanel3.css" target="inlineframe" /></a>
+
+<!-- SCROLLBAR -->
+<style>
+::-webkit-scrollbar{width:4px;}
+::-webkit-scrollbar-track{background: #181818 !important;border-radius:0px;}
+::-webkit-scrollbar-thumb{background:#42424296 !important;border-radius:30px;}
+::-webkit-scrollbar-thumb:hover{background:#7e7e7efa !important; border-radius:30px;}
+</style>
+
+<!-- STYLESHEET -->
+<link rel="stylesheet" href="https://HP-001-Onalia.gothlly.art/-G-STYLE.DontEdit.css" />
+<link rel="stylesheet" href="https://HP-001-Onalia.gothlly.art/-G-001-TEXT.DontEdit.css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style>#Home{position:relative !important;width: 524px;height: 253px;left: 2px;top: 1643px;z-index:8 !important;padding: 0px 5px;margin: 0 auto 35px auto;overflow: auto;border-radius: 0px;}</style>
+<style>#About{position:relative !important;width: 524px;height: 253px;left: 2px;top: 1355px;z-index:8 !important;padding: 0px 5px;margin: 0 auto 35px auto;overflow: auto;border-radius: 0px;}</style>
+<style>#Love{position:relative !important;width: 524px;height: 253px;left: 2px;top: 1355px;z-index:8 !important;padding: 0px 5px;margin: 0 auto 35px auto;overflow: auto;border-radius: 0px;}</style>
+<style>#Faq{position:relative !important;width: 524px;height: 253px;left: 2px;top: 1355px;z-index:8 !important;padding: 0px 5px;margin: 0 auto 35px auto;overflow: auto;border-radius: 0px;}</style>
+
+<!-- TABS --> 
+<div id="Button4" style="position: relative;width: 0px;height: 0px;left: -990px !important;top: 730px;margin: 0 auto 35px auto;"><a data-toggle="tab" href="#Home" style="position: absolute;top: 370px;left: 340px;z-index: 5;">
+    <img class="novisible" src="https://i.ibb.co/tsBSHNM/HOME-2.png" ondragstart="return false;" />
+    <img class="visible" src="https://i.ibb.co/RjRYCwV/HOME-1.png" ondragstart="return false;" />
+</a></div>
+
+<div id="Button4" style="position: relative;width: 0px;height: 0px;left: -820px !important;top: 954px;margin: 0 auto 35px auto;"><a data-toggle="tab" href="#About" style="position: absolute;top: 370px;left: 340px;z-index: 5;">
+    <img class="novisible" src="https://i.ibb.co/583Cmbm/ABOUT-2.png" ondragstart="return false;" />
+    <img class="visible" src="https://i.ibb.co/DVWv3P6/ABOUT-1.png" ondragstart="return false;" />
+</a></div>
+
+<div id="Button4" style="position: relative;width: 0px;height: 0px;left: -25px !important;top: 650px;margin: 0 auto 35px auto;"><a data-toggle="tab" href="#Love" style="position: absolute;top: 450px;left: 425px;z-index: 5;">
+    <img class="novisible" src="https://i.ibb.co/k5zfpzZ/LOVE-2.png" ondragstart="return false;" />
+    <img class="visible" src="https://i.ibb.co/z4djFTW/LOVE-1.png" ondragstart="return false;" />
+</a></div>
+
+<div id="Button4" style="position: relative;width: 0px;height: 0px;left: -628px !important;top: 952px;margin: 0 auto 35px auto;"><a data-toggle="tab" href="#Faq" style="position: absolute;top: 370px;left: 857px;z-index: 5;">
+    <img class="novisible" src="https://i.ibb.co/3cn5531/FAQ-2.png" ondragstart="return false;" />
+    <img class="visible" src="https://i.ibb.co/x1qdkZz/FAQ-1.png" ondragstart="return false;" />
+</a></div>
+
+<!------------------------------------------------------------------- EDIT TABS 2 ---------------------------------------------------------------------------->
+<div class="tab-content"><div id="Home" class="tab-pane fade show active in"><div class="text">  
+<!-------------------------------------------------------------- EDIT HOME FROM HERE --------------------------------------------------------------->
+
+<h1>Home<br />
+<span>Home</span>
+</h1>
+    
+<center><div class="divider3"></div><br /></center>
+<br /><br /><center><white>
+<size2>Bienvenue sur ma home page.<br /></size2>
+créatrice de contenue One Piece et My Hero Academia.<br />
+ma boutique et maintenant fermé.<br />
+merci de vôtre comprehension.<br />
+<br /><br /></white></center>
+
+<br /><br /><center><blockquote>
+Xoxo!
+<br />
+Gothlly@IMVU
+</blockquote></center>
+
+<!-- LINKS -->
+<center style="-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;">
+<a href="https://fr.avatars.imvu.com/Ritzen" target="_blank">Ritzen</a> |
+    
+<a href="https://fr.avatars.imvu.com/TodorokiShoto" target="_blank">TodorokiShoto</a> |
+    
+<a href="https://fr.avatars.imvu.com/Riplay" target="_blank">Riplay</a>
+</center>
+    
+<h3 style="width: 476px;">
+♥ Thank you Gothlly ♥
+</h3>
+
+
+<!------------------------------------------------------------------- END EDIT HOME ----------------------------------------------------------------------->
+</div></div><div id="About" class="tab-pane fade"><div class="text">  
+<!-------------------------------------------------------------- EDIT ABOUT FROM HERE --------------------------------------------------------------->
+
+<h1>About<br />
+<span>About</span>
+</h1>
+    
+<center><div class="divider3"></div><br /></center>
+
+<br /><white><center> La seul chose à savoir sur moi,<br />
+Je suis une psychiatre, et sans histoire.<br />
+À l'écoute des gens, et ouverte à toute discussion.<br />
+Vouloir m'ajouter a vos problème personnel gagne un blockage direct.<br /></center></white>
+
+<br /><br /><center><blockquote>
+Xoxo!
+<br />
+Gothlly@IMVU
+</blockquote></center>
+
+<!-- LINKS -->
+<center style="-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;">
+<a href="https://fr.avatars.imvu.com/Ritzen" target="_blank">Ritzen</a> |
+    
+<a href="https://fr.avatars.imvu.com/TodorokiShoto" target="_blank">TodorokiShoto</a> |
+    
+<a href="https://fr.avatars.imvu.com/Riplay" target="_blank">Riplay</a>
+</center>
+    
+<h3 style="width: 476px;">
+♥ Thank you Gothlly ♥
+</h3>
+
+
+<!---------------------------------------------------------------- END EDIT ABOUT ---------------------------------------------------------------->
+</div></div><div id="Love" class="tab-pane fade"><div class="text">  
+<!------------------------------------------------------------ EDIT LOVE FROM HERE ---------------------------------------------------------->
+
+<h1>Love<br />
+<span>Love</span>
+</h1>
+    
+<center><div class="divider3"></div><br /></center>
+
+<center><size3><white> Ma vie personnel restera toujours en dehors d'IMVU.<br />
+merci de vôtre comprehensions.</white></size3></center><br />
+
+<br /><br /><center><blockquote>
+Xoxo!
+<br />
+Gothlly@IMVU
+</blockquote></center>
+
+<!-- LINKS -->
+<center style="-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;">
+<a href="https://fr.avatars.imvu.com/Ritzen" target="_blank">Ritzen</a> |
+    
+<a href="https://fr.avatars.imvu.com/TodorokiShoto" target="_blank">TodorokiShoto</a> |
+    
+<a href="https://fr.avatars.imvu.com/Riplay" target="_blank">Riplay</a>
+</center>
+    
+<h3 style="width: 476px;">
+♥ Thank you Gothlly ♥
+</h3>
+
+
+<!------------------------------------------------------------------- END EDIT LOVE -------------------------------------------------------------------->
+</div></div><div id="Faq" class="tab-pane fade"><div class="text">  
+<!-------------------------------------------------------------- EDIT FAQ FROM HERE --------------------------------------------------------------->
+
+<h1>Faq<br />
+<span>Faq</span>
+</h1>
+    
+<center><div class="divider3"></div><br /></center>
+
+<br /><white><size2><center>Question basique, réponse simple.<br /></center></size2>
+<size1><b>Réouverture de la boutique ?</b> Cette question n'aura jamais de réponse.<br />
+il se peut que la boutique ouvre, mais dans une durée limité selon mon envie.<br /><br />
+<b>Pourquoi et-tu sur imvu ?</b> pour parssé du bon temps avec de bonne personnes.<br /><br />
+<b>Peut-ont te parler de choses personnel ?</b> Oui. comme je les dit sur le "HOME" je suis psychiatre.</size1></white><br />
+
+<br /><br /><center><blockquote>
+Xoxo!
+<br />
+Gothlly@IMVU
+</blockquote></center>
+
+<!-- LINKS -->
+<center style="-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;">
+<a href="https://fr.avatars.imvu.com/Ritzen" target="_blank">Ritzen</a> |
+    
+<a href="https://fr.avatars.imvu.com/TodorokiShoto" target="_blank">TodorokiShoto</a> |
+    
+<a href="https://fr.avatars.imvu.com/Riplay" target="_blank">Riplay</a>
+</center>
+    
+<h3 style="width: 476px;">
+♥ Thank you Gothlly ♥
+</h3>
+
+<!-------------------------------------------------------------- END EDIT FAQ ------------------------------------------------------------------------->
+</div></div></div>
+
+<script src="https://www.youtube.com/player_api"></script><div class="gaf210imvustylez_youtubebox" style="width:1px;height:1px;overflow:hidden"><iframe id="gaf210_youtube_invisible" allow="autoplay" width="300" height="300" src="https://www.youtube.com/embed/V4wM-VZqRf8?autoplay=1&loop=0" frameborder="0" allowfullscreen=""></iframe><!--Youtube player code made @ https://gafcodes.com --></div><script src="https://code.jquery.com/jquery.min.js"></script><script>$("#gaf210_youtube_invisible").on("load",function(){gaf210_youtube_invisible=new YT.Player(this,{events:{'onReady':function(event){event.target.playVideo()}}})});</script>
